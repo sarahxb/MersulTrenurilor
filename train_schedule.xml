@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trains>
+    <train id="1">
+        <departure>16:22</departure>
+        <arrival>18:32</arrival>
+        <ruta>Suceava-Iasi</ruta>
+    </train>
+    <train id="2">
+        <departure>15:53</departure>
+        <arrival>18:25</arrival>
+        <ruta>Cluj-Bucuresti</ruta>
+    </train>
+    <train id="3">
+        <departure>10:02</departure>
+        <arrival>19:18</arrival>
+        <ruta>Iasi-Cluj</ruta>
+    </train>
+    <train id="4">
+        <departure>15:53</departure>
+        <arrival>18:15</arrival>
+        <ruta>Iasi-Vaslui</ruta>
+    </train>
+    <train id="5">
+        <departure>14:58</departure>
+        <arrival>18:15</arrival>
+        <ruta>Iasi-Galati</ruta>
+    </train>
+     <train id="6">
+        <departure>23:58</departure>
+        <arrival>06:15</arrival>
+        <ruta>Suceava-Bucuresti</ruta>
+    </train>
+    <train id="7">
+        <departure>05:31</departure>
+        <arrival>17:15</arrival>
+        <ruta>Suceava-Timisoara</ruta>
+    </train>
+   <train id="8">
+        <departure>05:04</departure>
+        <arrival>22:15</arrival>
+        <ruta>Iasi-Timisoara</ruta>
+    </train>
+   <train id="9">
+        <departure>09:00</departure>
+        <arrival>12:30</arrival>
+        <ruta>Suceava-Focsani</ruta>
+    </train>
+  <train id="10">
+        <departure>15:06</departure>
+        <arrival>17:07</arrival>
+        <ruta>Oradea-Satu Mare</ruta>
+    </train>
+  <train id="11">
+        <departure>07:00</departure>
+        <arrival>10:03</arrival>
+        <ruta>Constanta-Buzau</ruta>
+    </train>
+  <train id="12">
+        <departure>18:06</departure>
+        <arrival>22:09</arrival>
+        <ruta>Constanta-Tulcea</ruta>
+    </train>
+   <train id="13">
+        <departure>01:00</departure>
+        <arrival>04:15</arrival>
+        <ruta>Cluj-Deva</ruta>
+    </train>
+  <train id="14">
+        <departure>15:06</departure>
+        <arrival>20:07</arrival>
+        <ruta>Iasi-Piatra Neamt</ruta>
+    </train>
+   <train id="15">
+        <departure>10:43</departure>
+        <arrival>22:30</arrival>
+        <ruta>Bucuresti-Timisoara</ruta>
+    </train>
+</trains>
